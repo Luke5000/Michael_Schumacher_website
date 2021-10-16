@@ -1,0 +1,136 @@
+
+.MS0 {
+	background : url(Schumi_di_GP_Kanada_2011_cropped.jpg) no-repeat center fixed   ;
+	background-size: cover;
+}
+ 
+
+
+.MS1 { 
+	background : url(Benetton_B_194_4841.jpg) no-repeat center fixed   ;
+	background-size: cover;
+}
+
+
+
+.MS2{
+	background : url(Michael_Schumacher_1997.jpg) no-repeat center fixed   ;
+	background-size: cover;
+	
+   
+}
+
+
+.MS3 {
+	background : url(Michael_Schumacher_2012_Malaysia_FP2.jpg) no-repeat center fixed   ;
+	background-size: cover  ;
+	
+	
+	
+}
+
+nav {
+	background-color : black ;
+	border-radius : 20px 5px 20px 5px ;
+	
+}
+
+nav li{
+	display : inline ;
+	margin: 20px ;
+	color : white ;
+	padding : 30px ;
+	border-radius : 20px 5px 20px 5px ;
+}
+
+a:visited{
+	color:white ;
+}
+
+nav ul{
+	
+	padding : 20px ;
+	
+}
+
+#AcceuilMS1 {
+	position : absolute ;
+	top :250px ;
+	left : 600px ; /* 400px */
+	font-size : 100px ;
+	color : white ;
+}
+
+#AcceuilMS2{
+	position : absolute ;
+	top :350px ;
+	left : 530px ;     /* 330px */
+	font-size : 100px ;
+	color : white ;
+}
+
+div {
+	font-size : 20px ;
+	color : white ;
+	padding-bottom : 300px ;
+}
+
+/*.transbox{
+	background-color: #ffffff;
+	border: 1px solid black;
+	opacity: 0.6; 
+	padding-bottom : 300px ;
+	font-size :20px ;
+	
+}*/
+
+
+
+#MSPB:hover{
+	background-color : blue ;
+}
+
+
+#MSPF:hover{
+	background-color : red ;
+}
+
+#MSPM:hover{
+	background-color : gray ;
+}
+
+
+
+
+#citation1{
+	position : absolute ;
+	top : 600px ;
+	left : 400px ;
+	color : white ;
+	font-size : 30px ;
+}
+
+#citation2{
+	position : absolute ;
+	top : 900px ;
+	left : 400px ;
+	color : white ;
+	font-size : 30px ;
+}
+
+
+#citation3{
+	position : absolute ;
+	top : 1200px ;
+	left : 400px ;
+	color : white ;
+	font-size : 30px ;
+	padding-bottom : 500px ;
+}
+
+
+
+
+
+
+
